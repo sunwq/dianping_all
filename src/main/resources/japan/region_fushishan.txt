@@ -1,0 +1,12 @@
+{"name":"富士河口湖町","url":"/search/category/2376/10/r25646","urlId":"r25646"}
+{"name":"河口湖/西阁","url":"/search/category/2376/10/r10743","urlId":"r10743"}
+{"name":"富士吉田市","url":"/search/category/2376/10/r25647","urlId":"r25647"}
+{"name":"山中湖村","url":"/search/category/2376/10/r10744","urlId":"r10744"}
+{"name":"富士市","url":"/search/category/2376/10/r25641","urlId":"r25641"}
+{"name":"富士宫市","url":"/search/category/2376/10/r25640","urlId":"r25640"}
+{"name":"富士山其他","url":"/search/category/2376/10/r12098","urlId":"r12098"}
+{"name":"御殿场市","url":"/search/category/2376/10/r25642","urlId":"r25642"}
+{"name":"富士/富士宫","url":"/search/category/2376/10/r10747","urlId":"r10747"}
+{"name":"正治阁/本栖湖","url":"/search/category/2376/10/r10746","urlId":"r10746"}
+{"name":"裾野市","url":"/search/category/2376/10/r25643","urlId":"r25643"}
+{"name":"长泉町","url":"/search/category/2376/10/r25644","urlId":"r25644"}
